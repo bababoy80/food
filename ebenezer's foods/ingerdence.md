@@ -1,0 +1,1 @@
+bread,beff,tamato,sald;
